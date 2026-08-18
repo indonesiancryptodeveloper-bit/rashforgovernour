@@ -29,12 +29,6 @@ No tax (0% buy/sell) - bisa di-custom
 Solidity ^0.8.20 using OpenZeppelin ERC20.
 Verified source code in /contracts/RashForGavernour.sol
 
-🔗 Links (Ganti dengan link asli kamu)
-Website: https://rashforgovernour.com
-Twitter / X: https://x.com/RashForGavernour
-Telegram: https://t.me/RashForGavernour
-BscScan: https://bscscan.com/address/0x1952058B884F5a850Ad4e863b77a6Da960f8e001
-PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x1952058B884F5a850Ad4e863b77a6Da960f8e001
 🛠️ How to Deploy
 Open Remix IDE
 Import OpenZeppelin
